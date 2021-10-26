@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>com.jessym</groupId>
-    <artifactId>combining-spring-boot-auth-methods</artifactId>
+    <artifactId>tutorial-combining-spring-boot-auth-methods</artifactId>
     <version>NEXT-SNAPSHOT</version>
 
     <properties>
